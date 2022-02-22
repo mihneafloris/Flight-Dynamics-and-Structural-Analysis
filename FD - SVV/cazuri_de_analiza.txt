@@ -1,0 +1,18 @@
+Eigenvalues and eigenmotions:
+
+eigenvalues from the measurements of generic data through numerical model
+eigenvalues from the measurements of our data through numerical model
+eigenvalues found analytically
+
+eigenmotions plotted from the data itself from the generic data
+eigenmotions plotted from the data itself from our data
+eigenmotions plotted from the numerical model for generic data
+eigenmotions plotted from the numerical model for our data
+
+for everything using the numerical model, the model can be improved or not improved
+
+things that improve the model:
+
+Cm_alpha
+Cm_delta
+Cl-Cd
